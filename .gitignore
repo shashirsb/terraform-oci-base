@@ -6,10 +6,10 @@
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
+# *.tfvars
 
 # provider file for testing - should be manually added
-provider.tf
+# provider.tf
 
 generated/**
 scripts/tesseract.sh
